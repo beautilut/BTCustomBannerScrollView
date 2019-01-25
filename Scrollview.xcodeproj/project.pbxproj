@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B6905ACE21F9C38D00F10CA4 /* BTCustomBannerScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B6905ACD21F9C38D00F10CA4 /* BTCustomBannerScrollView.m */; };
 		B6A9C27F21F85C7400DDE980 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B6A9C27E21F85C7400DDE980 /* AppDelegate.m */; };
 		B6A9C28221F85C7400DDE980 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6A9C28121F85C7400DDE980 /* ViewController.m */; };
 		B6A9C28521F85C7400DDE980 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6A9C28321F85C7400DDE980 /* Main.storyboard */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B6905ACC21F9C38D00F10CA4 /* BTCustomBannerScrollView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BTCustomBannerScrollView.h; sourceTree = "<group>"; };
+		B6905ACD21F9C38D00F10CA4 /* BTCustomBannerScrollView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BTCustomBannerScrollView.m; sourceTree = "<group>"; };
 		B6A9C27A21F85C7400DDE980 /* Scrollview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrollview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6A9C27D21F85C7400DDE980 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B6A9C27E21F85C7400DDE980 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -111,6 +114,8 @@
 				B6A9C27E21F85C7400DDE980 /* AppDelegate.m */,
 				B6A9C28021F85C7400DDE980 /* ViewController.h */,
 				B6A9C28121F85C7400DDE980 /* ViewController.m */,
+				B6905ACC21F9C38D00F10CA4 /* BTCustomBannerScrollView.h */,
+				B6905ACD21F9C38D00F10CA4 /* BTCustomBannerScrollView.m */,
 				B6A9C2AF21F85C9800DDE980 /* BTScrollerBannerView.h */,
 				B6A9C2B021F85C9800DDE980 /* BTScrollerBannerView.m */,
 				B6A9C2B221F868AC00DDE980 /* BTScrollerBannerContentView.h */,
@@ -272,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6905ACE21F9C38D00F10CA4 /* BTCustomBannerScrollView.m in Sources */,
 				B6A9C28221F85C7400DDE980 /* ViewController.m in Sources */,
 				B6A9C2B421F868AC00DDE980 /* BTScrollerBannerContentView.m in Sources */,
 				B6A9C28D21F85C7800DDE980 /* main.m in Sources */,
